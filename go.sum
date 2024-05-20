@@ -6,8 +6,8 @@ github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZb
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/puzpuzpuz/xsync/v3 v3.0.2 h1:3yESHrRFYr6xzkz61LLkvNiPFXxJEAABanTQpKbAaew=
 github.com/puzpuzpuz/xsync/v3 v3.0.2/go.mod h1:VjzYrABPabuM4KyBh1Ftq6u8nhwY5tBPKP9jpmh0nnA=
-github.com/razzie/razcache v1.0.0 h1:Cdqh5CD9LHEP0uIqcbfcnBnzZEPajPZiLXADfOz9hm0=
-github.com/razzie/razcache v1.0.0/go.mod h1:6n8Sd7kDAKijcI/RM8fEhRnODMUXWyyRGQKCFyk/nnU=
+github.com/razzie/razcache v1.1.0 h1:2b8v8fkPtxiMuaVE6eRCQGRl0UjsX/hRCDa3ZYSPggM=
+github.com/razzie/razcache v1.1.0/go.mod h1:6n8Sd7kDAKijcI/RM8fEhRnODMUXWyyRGQKCFyk/nnU=
 github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
 github.com/stretchr/testify v1.8.4/go.mod h1:sz/lmYIOXD/1dqDmKjjqLyZ2RngseejIcXlSw2iwfAo=
 gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
